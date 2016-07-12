@@ -1,5 +1,5 @@
 function Year (year) {
-    this.year = year;
+  this.year = year;
 }
 
 Year.prototype.isLeap = function() {
